@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0402-remove-k-digits) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
