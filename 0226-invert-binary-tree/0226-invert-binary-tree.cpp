@@ -12,20 +12,11 @@
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
-        if(root==NULL) return root;
-        queue<TreeNode*>q;
-        q.push(root);
-        while(!q.empty()){
-            int size=q.size();
-            for(int i=0;i<size;i++){
-                TreeNode* temp = q.front();
-                q.pop();
-                swap(temp->left,temp->right);
-                if(temp->left!=NULL) q.push(temp->left);
-                if(temp->right!=NULL) q.push(temp->right);
-            }
-            
-        }
+        if(root==NULL) return NULL;
+        TreeNode* left = invertTree(root->left);
+        TreeNode* right = invertTree(root->right);
+        swap(root->left,root->right);
+
         return root;
     }
 };
