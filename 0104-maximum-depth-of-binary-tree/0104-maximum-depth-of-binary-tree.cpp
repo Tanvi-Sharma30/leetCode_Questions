@@ -29,7 +29,6 @@ public:
             }
             ans.push_back(level);
         }
-        cout<<ans.size()<<endl;
         return ans.size();
         
     }
