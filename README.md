@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0203-remove-linked-list-elements) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0226-invert-binary-tree) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0226-invert-binary-tree) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0226-invert-binary-tree) |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
