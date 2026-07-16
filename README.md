@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -73,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0257-binary-tree-paths) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0402-remove-k-digits) |
 ## Stack
@@ -129,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0264-ugly-number-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
