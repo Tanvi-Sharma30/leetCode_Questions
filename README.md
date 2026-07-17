@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0402-remove-k-digits) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0049-group-anagrams) |
 | [0503-next-greater-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/2104-sum-of-subarray-ranges) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0049-group-anagrams) |
 | [0264-ugly-number-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0264-ugly-number-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0257-binary-tree-paths) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
