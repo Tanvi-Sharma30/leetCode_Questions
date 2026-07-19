@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0049-group-anagrams) |
+| [0200-number-of-islands](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0200-number-of-islands) |
 | [0503-next-greater-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/2104-sum-of-subarray-ranges) |
@@ -148,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0049-group-anagrams) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
