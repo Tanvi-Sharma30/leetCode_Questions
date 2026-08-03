@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0503-next-greater-element-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0049-group-anagrams) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0200-number-of-islands](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0200-number-of-islands) |
 | [0503-next-greater-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0200-number-of-islands) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
