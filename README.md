@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0257-binary-tree-paths) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
