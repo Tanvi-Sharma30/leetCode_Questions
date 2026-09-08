@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0264-ugly-number-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0264-ugly-number-ii) |
 ## Hash Table
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
