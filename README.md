@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0414-third-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0503-next-greater-element-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0414-third-maximum-number) |
 ## Union-Find
@@ -207,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
