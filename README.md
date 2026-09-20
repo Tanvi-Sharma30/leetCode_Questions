@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0049-group-anagrams) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0198-house-robber) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
