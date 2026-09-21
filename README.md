@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0264-ugly-number-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1463-cherry-pickup-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1463-cherry-pickup-ii) |
 ## Array
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1463-cherry-pickup-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1463-cherry-pickup-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0200-number-of-islands) |
+| [1463-cherry-pickup-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1463-cherry-pickup-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
