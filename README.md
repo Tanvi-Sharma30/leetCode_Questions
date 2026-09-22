@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1463-cherry-pickup-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1463-cherry-pickup-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0200-number-of-islands) |
 | [1463-cherry-pickup-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1463-cherry-pickup-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1901-find-a-peak-element-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0287-find-the-duplicate-number) |
+| [1901-find-a-peak-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
