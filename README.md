@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1903-largest-odd-number-in-string) |
 | [3692-majority-frequency-characters](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/3692-majority-frequency-characters) |
 ## Stack
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0402-remove-k-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
