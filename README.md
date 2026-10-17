@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0402-remove-k-digits) |
+| [0451-sort-characters-by-frequency](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -188,11 +189,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [3692-majority-frequency-characters](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/3692-majority-frequency-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0264-ugly-number-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
 ## Union-Find
 |  |
 | ------- |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [3692-majority-frequency-characters](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/3692-majority-frequency-characters) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -271,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
