@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1903-largest-odd-number-in-string) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3692-majority-frequency-characters](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/3692-majority-frequency-characters) |
 ## Stack
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1903-largest-odd-number-in-string) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Math
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3692-majority-frequency-characters](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/3692-majority-frequency-characters) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
