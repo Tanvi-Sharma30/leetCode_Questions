@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0344-reverse-string) |
 ## Recursion
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0414-third-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0503-next-greater-element-ii) |
