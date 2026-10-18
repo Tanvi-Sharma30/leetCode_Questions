@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0344-reverse-string) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Recursion
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/2104-sum-of-subarray-ranges) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Monotonic Stack
 |  |
 | ------- |
