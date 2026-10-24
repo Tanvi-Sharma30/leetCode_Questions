@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0203-remove-linked-list-elements) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Two Pointers
 |  |
 | ------- |
