@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0213-house-robber-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0268-missing-number) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0414-third-maximum-number) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0229-majority-element-ii) |
 ## Pigeonhole Principle
 |  |
@@ -293,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
