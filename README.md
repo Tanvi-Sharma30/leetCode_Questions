@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0120-triangle) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0264-ugly-number-ii) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/0200-number-of-islands) |
 | [1463-cherry-pickup-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1463-cherry-pickup-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Tanvi-Sharma30/leetCode_Questions/tree/master/1901-find-a-peak-element-ii) |
